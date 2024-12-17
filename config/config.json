@@ -2,9 +2,9 @@
     "auto_renew_bearer" : "True",
     "pause_on_idle" : "True",
 
-    "mail" : "",
-    "password" : "",
-    "Prolific_ID" : "",
+    "mail" : "thomas.sancelot@gmail.com",
+    "password" : "FreePro1302!",
+    "Prolific_ID" : "656cd9c082b6039c507c0902",
 
-    "wait_time" : 30
+    "wait_time" : 20
 }
