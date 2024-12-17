@@ -6,5 +6,5 @@
     "password" : "FreePro1302!",
     "Prolific_ID" : "656cd9c082b6039c507c0902",
 
-    "wait_time" : 20
+    "wait_time" : "15s"
 }
